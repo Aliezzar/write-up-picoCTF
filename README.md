@@ -14,21 +14,6 @@ Web exploitation adalah seni memahami bagaimana sebuah aplikasi web bekerja dan 
 
 ---
 
-## 📂 Struktur Proyek
-```
-picoCTF-WebExploit/
-├── README.md          # Penjelasan proyek ini
-├── Trickster/         # Writeup untuk tantangan Trickster
-│   ├── writeup.md
-│   ├── images/
-├── AnotherChallenge/  # Folder untuk tantangan lain
-│   ├── writeup.md
-│   ├── images/
-└── ...                # Tambahan folder untuk tantangan lain
-```
-
----
-
 ## ⚡ Highlights
 - **Panduan Lengkap**: Setiap writeup disertai langkah-langkah yang terperinci.
 - **Visualisasi Mendalam**: Gambar untuk setiap langkah penting.
